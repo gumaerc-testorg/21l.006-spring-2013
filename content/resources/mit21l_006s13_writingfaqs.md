@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This files contains information regarding writing FQAs.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-006-american-literature-spring-2013/00620ab0e525ccd2479416fd726a4c8a_MIT21L_006S13_writingfaqs.pdf
+file: /media/courses/21l-006-american-literature-spring-2013/00620ab0e525ccd2479416fd726a4c8a_MIT21L_006S13_writingfaqs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: 21L.006 American Literature writing FAQs
 uid: 00620ab0-e525-ccd2-4794-16fd726a4c8a
