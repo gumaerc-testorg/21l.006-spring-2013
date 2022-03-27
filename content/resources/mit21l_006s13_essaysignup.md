@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d8a27106-7fe9-6636-0c20-d6f0fb73fcc1
 resourcetype: Document
 title: 21L.006 American Literature essay signup
 uid: 13eb3b19-27c4-202f-a45d-6d8c23183bce

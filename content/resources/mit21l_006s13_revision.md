@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 resourcetype: Document
 title: 21L.006 American Literature guidelines for revision
 uid: 432c9f2a-aeaf-ce17-d3fd-9bf22820d6df

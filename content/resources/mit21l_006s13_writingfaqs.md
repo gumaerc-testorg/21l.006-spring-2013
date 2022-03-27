@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 resourcetype: Document
 title: 21L.006 American Literature writing FAQs
 uid: 00620ab0-e525-ccd2-4794-16fd726a4c8a

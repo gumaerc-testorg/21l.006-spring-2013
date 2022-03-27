@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d8a27106-7fe9-6636-0c20-d6f0fb73fcc1
 resourcetype: Document
 title: 21L.006 American Literature essay 1 worksheet
 uid: e22fd192-5cc4-5226-ab76-a871990548fc
