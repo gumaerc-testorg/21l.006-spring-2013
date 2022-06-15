@@ -1,14 +1,14 @@
 ---
 content_type: page
+description: This section outlines the assignments for the course including essays
+  and presentation work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: d8a27106-7fe9-6636-0c20-d6f0fb73fcc1
 ---
-
-Essays 1–3
-----------
+## Essays 1–3
 
 Due sessions 5, 13, and 21
 
@@ -20,17 +20,16 @@ For each of the first three essays, you will assume one of three editing tasks a
 
 Although authors and tasks vary from assignment to assignment, certain expectations remain the same throughout:
 
-1.  Each essay should show mastery of passages and details from the text under discussion.
-2.  Focused research will be necessary for your work, and you should cite sources (including the text under consideration) and give credit accordingly, using MLA Works Cited format.
-3.  You are writing for an audience of peers who know the text as well as you do and will not need summaries of the plot or well-known facts. Try to illuminate the text and delight your readers.
+1. Each essay should show mastery of passages and details from the text under discussion.
+2. Focused research will be necessary for your work, and you should cite sources (including the text under consideration) and give credit accordingly, using MLA Works Cited format.
+3. You are writing for an audience of peers who know the text as well as you do and will not need summaries of the plot or well-known facts. Try to illuminate the text and delight your readers.
 
-[Editing task signup for essays 1–3 (PDF)]({{< baseurl >}}/resources/mit21l_006s13_essaysignup)
+{{% resource_link 13eb3b19-27c4-202f-a45d-6d8c23183bce "Editing task signup for essays 1–3 (PDF)" %}}
 
-[Essay 1 research workshop assignment (PDF)]({{< baseurl >}}/resources/mit21l_006s13_researchwork)  
+{{% resource_link e22fd192-5cc4-5226-ab76-a871990548fc "Essay 1 research workshop assignment (PDF)" %}}   
 Complete this worksheet to prepare for the research workshop in the MIT Libraries on session 4.
 
-Essay 4
--------
+## Essay 4
 
 Due session 26
 
@@ -38,11 +37,10 @@ For the final essay, on Toni Morrison's _Jazz_, you will construct a more develo
 
 To write her novel _Jazz_, Toni Morrison drew from a rich reservoir of historical, cultural, artistic, and popular references. As a result, _Jazz_ reflects on a particular period, the Harlem Renaissance, and also on themes in the creation and preservation of American history, particularly that of African-Americans whose stories have not been fully told. Drawing on research into the Jazz Age, select some event, author, or cultural production in Morrison's text (jazz being only the most obvious example) to examine more closely. How does Morrison use historical details to develop her literary aims? Use your research to develop your reading of an important theme or question in Morrison's novel and to show how Morrison uses literary tools to heighten readers' awareness of its implications.
 
-In-class report
----------------
+## In-class report
 
 You will present an in-class report and handout on one of the course authors.
 
-[Author sign-up sheet (PDF)]({{< baseurl >}}/resources/mit21l_006s13_reportsign)
+{{% resource_link f93a9e58-e6ad-91ec-ef68-714b779d03aa "Author sign-up sheet (PDF)" %}}
 
-[Report guidelines (PDF)]({{< baseurl >}}/resources/mit21l_006s13_reportguide)
+{{% resource_link 0ac5d68d-61be-3213-5dc5-071d1b7cfd3a "Report guidelines (PDF)" %}}
