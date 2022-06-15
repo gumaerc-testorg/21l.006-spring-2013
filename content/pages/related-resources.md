@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides writing guides and an extensive list of links to
+  outside resources.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -9,36 +11,36 @@ uid: 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4
 Writing Guides
 --------------
 
-[Writing FAQs (PDF)]({{< baseurl >}}/resources/mit21l_006s13_writingfaqs)
+{{% resource_link 00620ab0-e525-ccd2-4794-16fd726a4c8a "Writing FAQs (PDF)" %}}
 
-[Guidelines for revision (PDF)]({{< baseurl >}}/resources/mit21l_006s13_revision)
+{{% resource_link 432c9f2a-aeaf-ce17-d3fd-9bf22820d6df "Guidelines for revision (PDF)" %}}
 
 Outside Resources
 -----------------
 
-[General]({{< baseurl >}}/pages/related-resources#General)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "General" "#General" %}}
 
-[Spotlight on Grammar and Style]({{< baseurl >}}/pages/related-resources#Spotlight_on_Grammar_and_Style)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Spotlight on Grammar and Style" "#Spotlight_on_Grammar_and_Style" %}}
 
-[Mary Rowlandson]({{< baseurl >}}/pages/related-resources#Mary_Rowlandson)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Mary Rowlandson" "#Mary_Rowlandson" %}}
 
-[Transcendentalism]({{< baseurl >}}/pages/related-resources#Transcendentalism)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Transcendentalism" "#Transcendentalism" %}}
 
-[Nathaniel Hawthorne]({{< baseurl >}}/pages/related-resources#Nathaniel_Hawthorne)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Nathaniel Hawthorne" "#Nathaniel_Hawthorne" %}}
 
-[Herman Melville]({{< baseurl >}}/pages/related-resources#Herman_Melville)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Herman Melville" "#Herman_Melville" %}}
 
-[Frederick Douglass]({{< baseurl >}}/pages/related-resources#Frederick_Douglass)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Frederick Douglass" "#Frederick_Douglass" %}}
 
-[Harriet Beecher Stowe]({{< baseurl >}}/pages/related-resources#Harriet_Beecher_Stowe)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harriet Beecher Stowe" "#Harriet_Beecher_Stowe" %}}
 
-[Walt Whitman]({{< baseurl >}}/pages/related-resources#Walt_Whitman)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Walt Whitman" "#Walt_Whitman" %}}
 
-[Samuel Clemens/Mark Twain]({{< baseurl >}}/pages/related-resources#Samuel_Clemens_Mark_Twain)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Samuel Clemens/Mark Twain" "#Samuel_Clemens_Mark_Twain" %}}
 
-[Harlem Renaissance]({{< baseurl >}}/pages/related-resources#Harlem_Renaissance)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Harlem Renaissance" "#Harlem_Renaissance" %}}
 
-[Toni Morrison]({{< baseurl >}}/pages/related-resources#Toni_Morrison)
+{{% resource_link 1d7686c0-bdf2-c7aa-d12a-a6f526f2dbc4 "Toni Morrison" "#Toni_Morrison" %}}
 
 ### {{< anchor "General" >}}{{< /anchor >}}General
 
