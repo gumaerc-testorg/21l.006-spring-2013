@@ -6,6 +6,7 @@ file: /courses/21l-006-american-literature-spring-2013/13eb3b1927c4202fa45d6d8c2
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 21L.006 American Literature essay signup
 uid: 13eb3b19-27c4-202f-a45d-6d8c23183bce
 ---
 This files contains information regarding editing task signup for essays 1–3.
-

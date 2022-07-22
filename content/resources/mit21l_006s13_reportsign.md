@@ -5,6 +5,7 @@ file: /courses/21l-006-american-literature-spring-2013/f93a9e58e6ad91ecef68714b7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 21L.006 American Literature report signup
 uid: f93a9e58-e6ad-91ec-ef68-714b779d03aa
 ---
 This files contains information regarding author sign-up sheet.
-
