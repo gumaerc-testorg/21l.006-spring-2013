@@ -2,6 +2,7 @@
 content_type: resource
 description: This files contains information regarding guidelines for revision.
 file: /courses/21l-006-american-literature-spring-2013/432c9f2aaeafce17d3fd9bf22820d6df_MIT21L_006S13_revision.pdf
+file_size: 525400
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
