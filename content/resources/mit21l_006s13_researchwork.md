@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This files contains information regarding essay 1 research workshop assignment.
-file: /ol-ocw-studio-app/courses/21l-006-american-literature-spring-2013/e22fd1925cc45226ab76a871990548fc_MIT21L_006S13_researchwork.pdf
+file: /courses/21l-006-american-literature-spring-2013/e22fd1925cc45226ab76a871990548fc_MIT21L_006S13_researchwork.pdf
 file_size: 60286
 file_type: application/pdf
 learning_resource_types:
