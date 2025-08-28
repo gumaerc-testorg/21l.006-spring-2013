@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This files contains information regarding author sign-up sheet.
-file: /courses/21l-006-american-literature-spring-2013/f93a9e58e6ad91ecef68714b779d03aa_MIT21L_006S13_reportsign.pdf
+file: /ol-ocw-studio-app/courses/21l-006-american-literature-spring-2013/f93a9e58e6ad91ecef68714b779d03aa_MIT21L_006S13_reportsign.pdf
 file_size: 64070
 file_type: application/pdf
 learning_resource_types:
